@@ -1,0 +1,46 @@
+{
+  "format": 1,
+  "updatedAt": "2026-10-07T12:19:33.837Z",
+  "packs": [
+    {
+      "id": "KJV",
+      "name": "King James Version",
+      "revision": "2026-10-07",
+      "bytes": 1217168,
+      "sha256": "71557329eed33f4767fd00241b27785e665103996ab067aa60dc8ab83837beaf",
+      "file": "KJV.cbible"
+    },
+    {
+      "id": "BSB",
+      "name": "Berean Standard Bible",
+      "revision": "2026-10-07",
+      "bytes": 1218225,
+      "sha256": "efe4861b038557bea9ed28a1cbe1a6831bb3f88ee02f1deb696dab39f7c9ed2a",
+      "file": "BSB.cbible"
+    },
+    {
+      "id": "WEB",
+      "name": "World English Bible",
+      "revision": "2026-10-07",
+      "bytes": 1203370,
+      "sha256": "bcf4accc6b18135013830d15165dcdcf560ff0c4348a5071b0efdf7ea2dce227",
+      "file": "WEB.cbible"
+    },
+    {
+      "id": "ASV",
+      "name": "American Standard Version",
+      "revision": "2026-10-07",
+      "bytes": 1215197,
+      "sha256": "7c1983dec9e138610f14679d9bdaf75c6a2e101296ee9e983407d4ee58995ed2",
+      "file": "ASV.cbible"
+    },
+    {
+      "id": "YLT",
+      "name": "Young’s Literal Translation",
+      "revision": "2026-10-07",
+      "bytes": 1210129,
+      "sha256": "2b17211e68d3588e8ee8e5f7d5afefd6ccbcb2c3228a2a1312679187f3e07b24",
+      "file": "YLT.cbible"
+    }
+  ]
+}
